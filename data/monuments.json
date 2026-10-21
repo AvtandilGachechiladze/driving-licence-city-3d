@@ -1,0 +1,403 @@
+{
+ "monuments": [
+  {
+   "id": 11,
+   "model": "memorial_heroes",
+   "e": 3111.54,
+   "n": -1524.68,
+   "face": [
+    0.4983,
+    0.867
+   ],
+   "triangles": 872,
+   "route_clearance_m": 5.3,
+   "replace_radius_m": 15.0,
+   "figures": [],
+   "trees": [],
+   "props": []
+  },
+  {
+   "id": 6,
+   "model": "rustaveli",
+   "e": 1971.38,
+   "n": -142.33,
+   "face": [
+    -0.7071,
+    0.7071
+   ],
+   "triangles": 132,
+   "route_clearance_m": 14.9,
+   "replace_radius_m": 15.0,
+   "figures": [
+    {
+     "kind": "statue",
+     "at": [
+      0.0,
+      7.15,
+      0.0
+     ],
+     "height": 4.0,
+     "character": "business"
+    }
+   ],
+   "trees": [],
+   "props": []
+  },
+  {
+   "id": 8,
+   "model": "horses",
+   "e": 237.51,
+   "n": 999.85,
+   "face": [
+    0.8924,
+    0.4512
+   ],
+   "triangles": 4460,
+   "route_clearance_m": 40.6,
+   "replace_radius_m": 15.0,
+   "figures": [],
+   "trees": [],
+   "props": []
+  },
+  {
+   "id": 4,
+   "model": "shartava",
+   "e": 1419.37,
+   "n": 210.29,
+   "face": [
+    0.3593,
+    0.9332
+   ],
+   "triangles": 180,
+   "route_clearance_m": 46.0,
+   "replace_radius_m": 15.0,
+   "figures": [
+    {
+     "kind": "bust",
+     "at": [
+      0.0,
+      1.6,
+      3.5
+     ],
+     "height": 1.1,
+     "character": "business"
+    }
+   ],
+   "trees": [
+    {
+     "x": -8.0,
+     "z": -4.0,
+     "variant": "broadleaf_1",
+     "scale": 1.1
+    },
+    {
+     "x": 8.5,
+     "z": -3.0,
+     "variant": "broadleaf_1",
+     "scale": 1.0
+    },
+    {
+     "x": -5.5,
+     "z": 2.5,
+     "variant": "bush_1",
+     "scale": 2.3
+    },
+    {
+     "x": -5.5,
+     "z": -1.5,
+     "variant": "bush_1",
+     "scale": 2.3
+    },
+    {
+     "x": 5.5,
+     "z": 2.5,
+     "variant": "bush_1",
+     "scale": 2.3
+    },
+    {
+     "x": 5.5,
+     "z": -1.5,
+     "variant": "bush_1",
+     "scale": 2.3
+    }
+   ],
+   "props": [
+    {
+     "type": "park_lamp",
+     "x": -4.6,
+     "z": 5.8,
+     "yaw": 0.0
+    },
+    {
+     "type": "park_lamp",
+     "x": 4.6,
+     "z": 5.8,
+     "yaw": 0.0
+    },
+    {
+     "type": "bench",
+     "x": -6.5,
+     "z": 1.0,
+     "yaw": 0.0
+    },
+    {
+     "type": "bench",
+     "x": 6.5,
+     "z": 1.0,
+     "yaw": 0.0
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "model": "bust_ilia",
+   "e": 1657.02,
+   "n": 163.75,
+   "face": [
+    -0.5448,
+    -0.8386
+   ],
+   "triangles": 48,
+   "route_clearance_m": 25.8,
+   "replace_radius_m": 15.0,
+   "figures": [
+    {
+     "kind": "bust",
+     "at": [
+      0.0,
+      1.95,
+      0.0
+     ],
+     "height": 0.95,
+     "character": "business"
+    }
+   ],
+   "trees": [
+    {
+     "x": -3.8,
+     "z": -3.2,
+     "variant": "broadleaf_3",
+     "scale": 0.75
+    },
+    {
+     "x": 3.8,
+     "z": -3.2,
+     "variant": "broadleaf_3",
+     "scale": 0.75
+    }
+   ],
+   "props": []
+  },
+  {
+   "id": 10,
+   "model": "victory_park",
+   "e": 3024.51,
+   "n": -1697.23,
+   "face": [
+    0.8954,
+    -0.4452
+   ],
+   "triangles": 144,
+   "route_clearance_m": 8.7,
+   "replace_radius_m": 15.0,
+   "figures": [],
+   "trees": [
+    {
+     "x": -9,
+     "z": 5.0,
+     "variant": "bush_2",
+     "scale": 1.6
+    },
+    {
+     "x": -7.5,
+     "z": 5.0,
+     "variant": "bush_2",
+     "scale": 1.6
+    },
+    {
+     "x": -6,
+     "z": 5.0,
+     "variant": "bush_2",
+     "scale": 1.6
+    },
+    {
+     "x": -4.5,
+     "z": 5.0,
+     "variant": "bush_2",
+     "scale": 1.6
+    },
+    {
+     "x": -3,
+     "z": 5.0,
+     "variant": "bush_2",
+     "scale": 1.6
+    },
+    {
+     "x": 3,
+     "z": 5.0,
+     "variant": "bush_2",
+     "scale": 1.6
+    },
+    {
+     "x": 4.5,
+     "z": 5.0,
+     "variant": "bush_2",
+     "scale": 1.6
+    },
+    {
+     "x": 6,
+     "z": 5.0,
+     "variant": "bush_2",
+     "scale": 1.6
+    },
+    {
+     "x": 7.5,
+     "z": 5.0,
+     "variant": "bush_2",
+     "scale": 1.6
+    },
+    {
+     "x": 9,
+     "z": 5.0,
+     "variant": "bush_2",
+     "scale": 1.6
+    }
+   ],
+   "props": [
+    {
+     "type": "flag",
+     "x": -11.0,
+     "z": 6.5,
+     "yaw": 0.0
+    },
+    {
+     "type": "flag",
+     "x": -9.6,
+     "z": 6.5,
+     "yaw": 0.0
+    },
+    {
+     "type": "flag",
+     "x": -8.2,
+     "z": 6.5,
+     "yaw": 0.0
+    }
+   ]
+  }
+ ],
+ "islands": [
+  {
+   "id": 2,
+   "xy": [
+    752.5,
+    623.0
+   ],
+   "centre": "two_arm_lamp",
+   "flag_beside_road": true,
+   "plants": [
+    {
+     "variant": "bush_1",
+     "count": 9,
+     "scale": [
+      0.9,
+      1.3
+     ]
+    },
+    {
+     "variant": "bush_2",
+     "count": 6,
+     "scale": [
+      0.9,
+      1.2
+     ]
+    },
+    {
+     "variant": "willow_3",
+     "count": 5,
+     "scale": [
+      0.45,
+      0.55
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "xy": [
+    1455.7,
+    234.5
+   ],
+   "centre": null,
+   "flag_beside_road": false,
+   "plants": [
+    {
+     "variant": "broadleaf_4",
+     "count": 2,
+     "scale": [
+      0.42,
+      0.5
+     ]
+    },
+    {
+     "variant": "bush_purple",
+     "count": 1,
+     "scale": [
+      2.3,
+      2.5
+     ]
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "xy": [
+    3010.9,
+    -1204.8
+   ],
+   "centre": "mast",
+   "flag_beside_road": false,
+   "plants": [
+    {
+     "variant": "pine_2",
+     "count": 6,
+     "scale": [
+      0.22,
+      0.3
+     ]
+    },
+    {
+     "variant": "pine_4",
+     "count": 4,
+     "scale": [
+      0.22,
+      0.3
+     ]
+    },
+    {
+     "variant": "bush_2",
+     "count": 4,
+     "scale": [
+      0.8,
+      1.0
+     ]
+    },
+    {
+     "variant": "palm_1",
+     "count": 2,
+     "scale": [
+      0.8,
+      1.0
+     ]
+    },
+    {
+     "variant": "palm_2",
+     "count": 2,
+     "scale": [
+      0.9,
+      1.1
+     ]
+    }
+   ]
+  }
+ ]
+}

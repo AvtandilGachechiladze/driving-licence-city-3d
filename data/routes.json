@@ -1,0 +1,44 @@
+{
+ "routes": [
+  {
+   "id": "rustavi-1",
+   "title": "Exam route 1",
+   "km": 14.9
+  },
+  {
+   "id": "rustavi-2",
+   "title": "Exam route 2",
+   "km": 14.5
+  },
+  {
+   "id": "rustavi-3",
+   "title": "Exam route 3",
+   "km": 14.4
+  },
+  {
+   "id": "rustavi-4",
+   "title": "Exam route 4",
+   "km": 16.8
+  },
+  {
+   "id": "rustavi-5",
+   "title": "Exam route 5",
+   "km": 17.6
+  },
+  {
+   "id": "rustavi-6",
+   "title": "Exam route 6",
+   "km": 14.4
+  },
+  {
+   "id": "rustavi-7",
+   "title": "Exam route 7",
+   "km": 17.6
+  },
+  {
+   "id": "rustavi-8",
+   "title": "Exam route 8",
+   "km": 18.0
+  }
+ ]
+}
